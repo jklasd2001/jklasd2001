@@ -8,7 +8,7 @@
   <li>React Native</li>
   <li>CSS: Emotion, Tailwind CSS</li>
   <li>상태관리: Mobx, Recoil</li>
-  <li>테스트 프레임워크: Cypress, Storybook</li>
+  <li>테스트 프레임워크: Vitest, Storybook</li>
   <li>번들러: Vite, Webpack</li>
   <li>GraphQL: Apollo Client</li>
   <li>Node 패키지 매니저: pnpm, yarn</li>
