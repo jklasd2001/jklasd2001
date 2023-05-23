@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Frontend Developer</h2>
+<h1 align="center">Hi, I'm Frontend Developer</h2>
 
-<p align="center"><b>🛠 Tech Stack</b></p>
+<h2 align="center"><b>🛠 Tech Stack</b></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,ts,js" />
